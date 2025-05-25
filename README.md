@@ -1,14 +1,5 @@
-# Run and deploy your AI Studio app
+## Dev Portfolio
 
-This contains everything you need to run your app locally.
+## Preview - https://dev-portfolio-x.vercel.app
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+![Screenshot from 2025-05-25 15-08-35](https://github.com/user-attachments/assets/34c262ba-d406-411e-90fc-7ecc04de427b)
